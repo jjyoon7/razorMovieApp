@@ -24,6 +24,9 @@ namespace RazorPagesMovie.Pages.Movies
             return Page();
         }
 
+        //The Movie property uses the [BindProperty] attribute to opt-in to model binding.
+        //When the Create form posts the form values,
+        //the ASP.NET Core runtime binds the posted values to the Movie model.
         [BindProperty]
         public Movie Movie { get; set; }
 

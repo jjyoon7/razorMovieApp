@@ -8591,7 +8591,7 @@
       "outputPath": "/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/jayjiwonyoon/.config/NuGet/NuGet.Config"
+        "/Users/jayjiwonyoon/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"

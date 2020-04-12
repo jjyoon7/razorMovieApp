@@ -18,6 +18,7 @@ namespace RazorPagesMovie.Pages.Movies
             _context = context;
         }
 
+        //Note that onGet method initializes any state needed for the page
         public IActionResult OnGet()
         {
             return Page();

@@ -1,5 +1,13 @@
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.csproj.CoreCompileInputs.cache
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.RazorAssemblyInfo.cache
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.RazorAssemblyInfo.cs
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.AssemblyInfoInputs.cache
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.AssemblyInfo.cs
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.csprojAssemblyReference.cache
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/appsettings.Development.json
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/mono_crash.1479af2d46.0.json
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/RazorPagesMovie.deps.json
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/RazorPagesMovie.runtimeconfig.json
@@ -132,12 +140,6 @@
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.0/System.Runtime.Caching.dll
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/bin/Debug/netcoreapp3.1/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
-/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.csproj.CoreCompileInputs.cache
-/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.MvcApplicationPartsAssemblyInfo.cache
-/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.RazorAssemblyInfo.cache
-/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.RazorAssemblyInfo.cs
-/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.AssemblyInfoInputs.cache
-/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.AssemblyInfo.cs
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.TagHelpers.input.cache
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.TagHelpers.output.cache
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.RazorCoreGenerate.cache
@@ -162,4 +164,3 @@
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.dll
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.pdb
 /Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.genruntimeconfig.cache
-/Users/jayjiwonyoon/code/razorMovieApp/RazorPagesMovie/RazorPagesMovie/obj/Debug/netcoreapp3.1/RazorPagesMovie.csprojAssemblyReference.cache

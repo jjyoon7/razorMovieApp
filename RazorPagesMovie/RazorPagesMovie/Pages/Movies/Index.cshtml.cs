@@ -21,6 +21,7 @@ namespace RazorPagesMovie.Pages.Movies
 
         public IList<Movie> Movie { get;set; }
 
+        //For security reasons, you must opt in to binding GET request data to page model properties.
         [BindProperty(SupportsGet = true)]
         public string SearchString { get; set; }
 

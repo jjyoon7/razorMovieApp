@@ -33,6 +33,7 @@ namespace RazorPagesMovie.Pages.Movies
 
         public async Task OnGetAsync()
         {
+            //This LINQ query retrieves all the genres from the database.
             IQueryable<string> genreQuery = from m in _context.Movie
                                             orderby m.Genre
                                             select m.Genre;
@@ -50,7 +51,7 @@ namespace RazorPagesMovie.Pages.Movies
             {
                 movies = movies.Where(x => x.Genre == MovieGenre);
             }
-
+            //The 'SelectList' of genres is created by projecting the distinct genres.
             Genres = new SelectList(await genreQuery.Distinct().ToListAsync());
             Movie = await movies.ToListAsync();
         }
